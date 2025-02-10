@@ -7,7 +7,7 @@ import { useCallback, useEffect, useState } from 'react';
 import {v4} from 'uuid';
 
 const TODO_APP_KEY = 'TODO_APP';
-
+///Trong cmt
 function App() {
   //state, props
   const [todoList, setTodoList] = useState([]);//array
